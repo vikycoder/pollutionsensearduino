@@ -11,20 +11,19 @@ Analog out connect to A1 in arduino
 <br>
 ## RG1602A(2x16 lcd display) is used for display
 Vss-GND <br>
-Vdd-5V(power)
-Vo-3.3k resistor then GND
-RS-13(digital PWM arduino)
-RW-12(digital PWM arduino)
-E-11(digital PWM arduino)
-D0-10(digital PWM arduino)
-D1-9(digital PWM arduino)
-D2-8(digital PWM arduino)
-D3-7(digital PWM arduino)
-D4-6(digital PWM arduino)
-D5-5(digital PWM arduino)
-D6-4(digital PWM arduino)
-D7-3(digital PWM arduino)
-A-5V(high)
-K-GND
-
+Vdd-5V(power) <br>
+Vo-3.3k resistor then GND <br>
+RS-13(digital PWM arduino) <br>
+RW-12(digital PWM arduino) <br>
+E-11(digital PWM arduino) <br>
+D0-10(digital PWM arduino) <br>
+D1-9(digital PWM arduino) <br>
+D2-8(digital PWM arduino) <br>
+D3-7(digital PWM arduino) <br>
+D4-6(digital PWM arduino) <br>
+D5-5(digital PWM arduino) <br>
+D6-4(digital PWM arduino) <br>
+D7-3(digital PWM arduino) <br>
+A-5V(high) <br>
+K-GND <br>
 Dont forget to include LiquidCrystal.h and dht.h
