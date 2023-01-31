@@ -3,6 +3,7 @@
 The proposed system has various parameters such as Air Quality, Temperature and Humidity sensors with an Arduino module 
 having Atmel ATmega328P and ATmega16U2 microcontrollers.
 
+<br>
 MQ135 Gas sensor used, Analog out connect to A0 in arduino
 DHT11 temperature sensor used, Analog out connect to A1 in arduino
 
