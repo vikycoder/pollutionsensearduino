@@ -9,7 +9,7 @@ Analog out connect to A0 in arduino
 ## DHT11 temperature sensor 
 Analog out connect to A1 in arduino
 <br>
-RG1602A(2x16 lcd display) is used for display
+## RG1602A(2x16 lcd display) is used for display
 Vss-GND
 Vdd-5V(power)
 Vo-3.3k resistor then GND
