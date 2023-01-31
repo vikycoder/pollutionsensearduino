@@ -27,4 +27,4 @@ D7-3(digital PWM arduino) <br>
 A-5V(high) <br>
 K-GND <br>
 
-# Dont forget to include LiquidCrystal.h and dht.h
+## Dont forget to include LiquidCrystal.h and dht.h
