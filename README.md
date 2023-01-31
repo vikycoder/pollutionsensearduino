@@ -7,7 +7,7 @@ DHT11 temperature sensor used, Analog out connect to A1 in arduino
 
 RG1602A(2x16 lcd display) is used for display
 Vss-GND
-Vdd-5V(power
+  Vdd-5V(power
 Vo-3.3k resistor then GND
 RS-13(digital PWM arduino)
 RW-12(digital PWM arduino)
