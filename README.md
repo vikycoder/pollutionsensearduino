@@ -1,13 +1,14 @@
 POLLUTION MONITORING SYSTEM
 
-The proposed system has various parameters such as Air Quality, Temperature and Humidity sensors with an Arduino module having Atmel ATmega328P and ATmega16U2 microcontrollers.
+The proposed system has various parameters such as Air Quality, Temperature and Humidity sensors with an Arduino module 
+having Atmel ATmega328P and ATmega16U2 microcontrollers.
 
 MQ135 Gas sensor used, Analog out connect to A0 in arduino
 DHT11 temperature sensor used, Analog out connect to A1 in arduino
 
 RG1602A(2x16 lcd display) is used for display
 Vss-GND
-  Vdd-5V(power
+Vdd-5V(power)
 Vo-3.3k resistor then GND
 RS-13(digital PWM arduino)
 RW-12(digital PWM arduino)
